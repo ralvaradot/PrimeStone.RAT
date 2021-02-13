@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.PruebaTecnica", "PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.PruebaTecnica.csproj", "{62E96553-9BC5-41E3-A919-1EE27B0E0401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.Common", "PrimeStone.RAT.Common\PrimeStone.RAT.Common.csproj", "{B0721940-F85E-477C-97F5-FF11D6809A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Common", "PrimeStone.RAT.Common\PrimeStone.RAT.Common.csproj", "{B0721940-F85E-477C-97F5-FF11D6809A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.Entities", "PrimeStone.RAT.Entities\PrimeStone.RAT.Entities.csproj", "{FD47F4E6-F33C-4955-83EA-1834034EA20D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Entities", "PrimeStone.RAT.Entities\PrimeStone.RAT.Entities.csproj", "{FD47F4E6-F33C-4955-83EA-1834034EA20D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.DAL", "PrimeStone.RAT.DAL\PrimeStone.RAT.DAL.csproj", "{2400A966-CB29-4597-AFEB-922406AAE1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.DAL", "PrimeStone.RAT.DAL\PrimeStone.RAT.DAL.csproj", "{2400A966-CB29-4597-AFEB-922406AAE1C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Web", "PrimeStone.RAT.Web\PrimeStone.RAT.Web.csproj", "{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Dtos", "PrimeStone.RAT.Dtos\PrimeStone.RAT.Dtos.csproj", "{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{62E96553-9BC5-41E3-A919-1EE27B0E0401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62E96553-9BC5-41E3-A919-1EE27B0E0401}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62E96553-9BC5-41E3-A919-1EE27B0E0401}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62E96553-9BC5-41E3-A919-1EE27B0E0401}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0721940-F85E-477C-97F5-FF11D6809A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0721940-F85E-477C-97F5-FF11D6809A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0721940-F85E-477C-97F5-FF11D6809A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +31,14 @@ Global
 		{2400A966-CB29-4597-AFEB-922406AAE1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2400A966-CB29-4597-AFEB-922406AAE1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2400A966-CB29-4597-AFEB-922406AAE1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

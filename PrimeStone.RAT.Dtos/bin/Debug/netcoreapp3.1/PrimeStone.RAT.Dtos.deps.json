@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrimeStone.RAT.Dtos/1.0.0": {
+        "runtime": {
+          "PrimeStone.RAT.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeStone.RAT.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

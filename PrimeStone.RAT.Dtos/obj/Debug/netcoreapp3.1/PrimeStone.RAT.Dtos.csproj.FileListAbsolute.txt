@@ -1,0 +1,9 @@
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.deps.json
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.csprojAssemblyReference.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.AssemblyInfoInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.AssemblyInfo.cs
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.csproj.CoreCompileInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.pdb

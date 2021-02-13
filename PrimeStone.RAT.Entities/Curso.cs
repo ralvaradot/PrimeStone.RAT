@@ -4,7 +4,7 @@ namespace PrimeStone.RAT.Entities
 {
     public class Curso : ClassBase
     {
-        public int CourseId { get; set; }
+        public int CursoId { get; set; }
         [Required]
         [MaxLength(50, ErrorMessage = "El nombre del curso es requerido.")]
         public string CourseName { get; set; }

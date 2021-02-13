@@ -7,3 +7,20 @@ C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.R
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csproj.CoreCompileInputs.cache
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.dll
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.deps.json
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csprojAssemblyReference.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.AssemblyInfoInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.AssemblyInfo.cs
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csproj.CoreCompileInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll.config
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csproj.CopyComplete
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.pdb

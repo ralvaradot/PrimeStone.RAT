@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrimeStone.RAT.DAL\PrimeStone.RAT.DAL.csproj" />
+    <ProjectReference Include="..\PrimeStone.RAT.Dtos\PrimeStone.RAT.Dtos.csproj" />
+    <ProjectReference Include="..\PrimeStone.RAT.Entities\PrimeStone.RAT.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

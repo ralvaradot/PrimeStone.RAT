@@ -10,3 +10,19 @@ C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.R
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
 C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csproj.CopyComplete
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll.config
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.deps.json
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.runtimeconfig.json
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.runtimeconfig.dev.json
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csprojAssemblyReference.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.AssemblyInfoInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.AssemblyInfo.cs
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csproj.CoreCompileInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csproj.CopyComplete
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.genruntimeconfig.cache
