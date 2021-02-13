@@ -1,0 +1,9 @@
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.deps.json
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.dll
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Common.pdb
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csprojAssemblyReference.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.AssemblyInfoInputs.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.AssemblyInfo.cs
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.csproj.CoreCompileInputs.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.dll
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.Common\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Common.pdb

@@ -1,0 +1,12 @@
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.deps.json
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csprojAssemblyReference.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.AssemblyInfoInputs.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.AssemblyInfo.cs
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
+C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csproj.CopyComplete
