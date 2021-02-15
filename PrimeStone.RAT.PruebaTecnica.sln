@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.Entities", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.DAL", "PrimeStone.RAT.DAL\PrimeStone.RAT.DAL.csproj", "{2400A966-CB29-4597-AFEB-922406AAE1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Web", "PrimeStone.RAT.Web\PrimeStone.RAT.Web.csproj", "{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.Web", "PrimeStone.RAT.Web\PrimeStone.RAT.Web.csproj", "{CF2A2F8A-8FA8-4593-B200-3C6B1F9E7FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Dtos", "PrimeStone.RAT.Dtos\PrimeStone.RAT.Dtos.csproj", "{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeStone.RAT.Dtos", "PrimeStone.RAT.Dtos\PrimeStone.RAT.Dtos.csproj", "{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeStone.RAT.Api.Student", "PrimeStone.RAT.Api.Student\PrimeStone.RAT.Api.Student.csproj", "{C8FB539A-EA57-49E2-9BC2-0CF0A3324803}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02BCCAF7-F397-49D7-AF89-8E83F026B7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FB539A-EA57-49E2-9BC2-0CF0A3324803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FB539A-EA57-49E2-9BC2-0CF0A3324803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FB539A-EA57-49E2-9BC2-0CF0A3324803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FB539A-EA57-49E2-9BC2-0CF0A3324803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

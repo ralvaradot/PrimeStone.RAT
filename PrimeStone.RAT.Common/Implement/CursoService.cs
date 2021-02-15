@@ -27,9 +27,11 @@ namespace PrimeStone.RAT.Common.Implement
         }
 
 
-        public int AddCurso(CursoDto curso)
+        public int AddCurso(CursoDto curso, string user)
         {
             var entity = _mapper.Map<Curso>(curso);
+            entity.CreateAt = DateTime.Now;
+            entity.UserCreated = user;
 
             context.Cursos.Add(entity);
             return context.SaveChanges();
@@ -61,9 +63,12 @@ namespace PrimeStone.RAT.Common.Implement
             return lista;
         }
 
-        public int UpdateCurso(CursoDto curso)
+        public int UpdateCurso(CursoDto curso, string user)
         {
             var entity = _mapper.Map<Curso>(curso);
+            entity.UpadtedAt = DateTime.Now;
+            entity.UserLastUpdated = user;
+
             context.Cursos.Update(entity);
             return context.SaveChanges();
         }

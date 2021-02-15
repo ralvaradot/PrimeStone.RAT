@@ -2,7 +2,7 @@
 {
     public class CursoDto
     {
-        public int Id { get; set; }
-        public string NombreCurso { get; set; }
+        public int CursoId { get; set; }
+        public string CourseName { get; set; }
     }
 }

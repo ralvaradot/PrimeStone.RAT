@@ -8,8 +8,8 @@ namespace PrimeStone.RAT.Common.Interface
     {
         Task<List<CursoDto>> ListCursos();
         CursoDto GetCurso(int cursoId);
-        int AddCurso(CursoDto curso);
-        int UpdateCurso(CursoDto curso);
+        int AddCurso(CursoDto curso, string user);
+        int UpdateCurso(CursoDto curso, string user);
         int DeleteCurso(int cursoId);
     }
 }

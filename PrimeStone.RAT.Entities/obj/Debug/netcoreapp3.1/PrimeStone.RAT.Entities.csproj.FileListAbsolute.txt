@@ -10,6 +10,7 @@ C:\Users\ROBERTO ALVARADO\source\repos\PrimeStone.RAT.PruebaTecnica\PrimeStone.R
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.deps.json
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.csprojAssemblyReference.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.AssemblyInfoInputs.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.AssemblyInfo.cs
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Entities\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.csproj.CoreCompileInputs.cache
