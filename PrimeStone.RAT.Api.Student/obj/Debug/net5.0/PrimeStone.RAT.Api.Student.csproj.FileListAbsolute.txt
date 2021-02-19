@@ -8,7 +8,11 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\PrimeSt
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\ref\PrimeStone.RAT.Api.Student.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\PrimeStone.RAT.Api.Student.pdb
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\AutoMapper.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Humanizer.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -74,7 +78,3 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeSt
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\ref\PrimeStone.RAT.Api.Student.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.pdb
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.genruntimeconfig.cache
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll

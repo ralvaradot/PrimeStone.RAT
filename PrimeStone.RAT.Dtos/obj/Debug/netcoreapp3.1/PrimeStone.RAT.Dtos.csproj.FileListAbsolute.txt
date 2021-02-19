@@ -6,4 +6,3 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeSt
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.csproj.CoreCompileInputs.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.pdb
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Dtos\obj\Debug\netcoreapp3.1\PrimeStone.RAT.Dtos.csprojAssemblyReference.cache

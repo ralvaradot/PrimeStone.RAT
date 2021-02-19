@@ -16,7 +16,12 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeSto
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.runtimeconfig.dev.json
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Utilities.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.TransactSql.ScriptDom.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\PrimeStone.RAT.Entities.pdb
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.csprojAssemblyReference.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.AssemblyInfoInputs.cache
@@ -26,8 +31,3 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeSto
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.pdb
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\obj\Debug\netcoreapp3.1\PrimeStone.RAT.DAL.genruntimeconfig.cache
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Utilities.dll
-E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.DAL\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.TransactSql.ScriptDom.dll
