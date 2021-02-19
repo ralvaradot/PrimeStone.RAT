@@ -22,4 +22,8 @@
     <ProjectReference Include="..\PrimeStone.RAT.Entities\PrimeStone.RAT.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DatabaseContext\" />
+  </ItemGroup>
+
 </Project>

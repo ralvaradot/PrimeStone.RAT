@@ -1,25 +1,18 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using PrimeStone.RAT.Api.Student.DatabaseContext;
-using PrimeStone.RAT.Api.Student.Model;
 using PrimeStone.RAT.Common.Implement;
 using PrimeStone.RAT.Common.Interface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+using PrimeStone.RAT.DAL;
+using PrimeStone.RAT.Entities;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace PrimeStone.RAT.Api.Student
 {
@@ -39,11 +32,12 @@ namespace PrimeStone.RAT.Api.Student
             services.AddControllers();
 
             services.AddScoped<IStudentService, StudentService>();
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
+            services.AddDbContext<PrimeStoneDbContext>(options => 
+                    options.UseSqlServer(Configuration.GetConnectionString("PrimeStoneDB")));
 
             // For Identity  
             services.AddIdentity<ApplicationUser, IdentityRole>()
-                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddEntityFrameworkStores<PrimeStoneDbContext>()
                 .AddDefaultTokenProviders();
 
             // Adding Authentication  

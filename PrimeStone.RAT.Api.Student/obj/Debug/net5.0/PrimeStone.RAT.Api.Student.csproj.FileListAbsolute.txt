@@ -63,6 +63,7 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeSt
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.AssemblyInfoInputs.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.AssemblyInfo.cs
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.csproj.CoreCompileInputs.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.MvcApplicationPartsAssemblyInfo.cs
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.MvcApplicationPartsAssemblyInfo.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\staticwebassets\PrimeStone.RAT.Api.Student.StaticWebAssets.Manifest.cache
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\staticwebassets\PrimeStone.RAT.Api.Student.StaticWebAssets.xml
@@ -73,3 +74,7 @@ E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeSt
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\ref\PrimeStone.RAT.Api.Student.dll
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.pdb
 E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\obj\Debug\net5.0\PrimeStone.RAT.Api.Student.genruntimeconfig.cache
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\EntityFramework.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+E:\Prueba2021\PrimeStone.RAT\PrimeStone.RAT.Api.Student\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
